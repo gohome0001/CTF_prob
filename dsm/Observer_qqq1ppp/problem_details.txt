@@ -1,0 +1,13 @@
+{
+    "title" : "Observer",
+    "author" : "qqq1ppp",
+    "flag" : "amu#ehdAhwid22b3",
+    "type" : "Reversing",
+    "description" : `Sometimes, You need an Observer.
+But after then, It won't help you :p
+
+hint : Debug it if you want~`,
+    "difficulty" : 2,
+    "documents" : [],
+    "files" : 1
+}

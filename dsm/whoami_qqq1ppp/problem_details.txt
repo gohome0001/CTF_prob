@@ -1,0 +1,11 @@
+{
+    "title" : "whoami",
+    "author" : "qqq1ppp",
+    "flag" : "is_that_tru3?",
+    "type" : "Reversing",
+    "description" : `이 프로그램은 xor연산을 사용해 사용자 input 을 검사한다.
+xor연산의 특징을 이용해 awsome_hacker가 되어보자!`,
+    "difficulty" : 1,
+    "documents" : [],
+    "files" : 1
+}

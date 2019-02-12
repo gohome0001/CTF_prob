@@ -1,0 +1,11 @@
+﻿{
+    "title" : "traceME",
+    "author" : "qqq1ppp",
+    "flag" : "foobarbaz_",
+    "type" : "Reversing",
+    "description" : `I made a program that runs on my computer. but, my computer has been broken now.. 
+can't you run it for me?`,
+    "difficulty" : 2,
+    "documents" : [],
+    "files" : 1
+}
